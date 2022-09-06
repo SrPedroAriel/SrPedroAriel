@@ -1,0 +1,40 @@
+*{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	border-spacing:borderbox;
+
+
+
+
+}
+.botao{
+	size: 10px;
+
+}
+html{
+	background-image:url(img/fundosite.png);
+	color: white;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.cabecalho {
+  background-color: blueviolet;
+  color: black;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+  font-size: 200%;
+
+
+}
+#textoheader {
+	color: black;
+	background-color: blueviolet;
+	
+}
+.imagem a:hover {
+	
+	border: solid black;
+}
